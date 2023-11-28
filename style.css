@@ -1,0 +1,9 @@
+body {
+    background-color: pink;
+    color: black;
+}
+#camera,#result{
+    border: 3px solid salmon;
+    width: 350px;
+    height: 300px;
+}
